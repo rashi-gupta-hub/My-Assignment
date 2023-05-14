@@ -1,4 +1,5 @@
-package Assignments;
+package Basic_DSA;
+
 
 import java.util.Scanner;
 
@@ -15,7 +16,7 @@ class ArmstrongOrNot {
     }
 }
 
-public class Armstrong {
+public class Assignment1Q1 {
     public static void main(String[] args) {
         ArmstrongOrNot obj = new ArmstrongOrNot();
         Scanner sc = new Scanner(System.in);
@@ -29,4 +30,5 @@ public class Armstrong {
         }
         sc.close();
     }
+
 }
